@@ -1,4 +1,4 @@
-CODE FOR PATTERN PRINTING
+*CODE FOR PATTERN PRINTING*
 
 def pattern(s, len):
 #s -> symbol
